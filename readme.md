@@ -1,4 +1,4 @@
-# Project Name
+# ethOracleJava
 
 This is a very basic example of an Java Oracle that sets information into a smart contract
 
